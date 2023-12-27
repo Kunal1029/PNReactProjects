@@ -1,0 +1,63 @@
+.navbar-brand{
+  border-radius: 24px;
+  border: 2px solid red;
+}
+.navbar-brand img{
+  width: 150px;
+}
+.fa-youtube{
+  color: rgb(226, 100, 100);
+}
+.fa-facebook{
+  color: rgb(10, 42, 144);
+}
+.nav2 h5{
+  font-size: 1rem;
+  text-align: center;
+  font-weight: 400;
+}
+.logo{
+  width: 250px;
+  border-radius: 10px;
+}
+.footBor{
+  border-radius: 20px;
+}
+.main{
+  background-color: #e7edeb;
+}
+.sizes1{
+  font-size: 3rem;
+  font-weight: 400;
+}
+.h2size{
+  font-size: 2.4rem;
+}
+.psize{
+  font-size: 1.1rem;
+  text-align: justify ;
+}
+.oneimg img{
+  width: 100%;
+}
+.allimg img{
+  width: 150px;
+}
+.allimg{
+ margin-bottom: 30px;
+ /* border: 2px saddlebrown solid; */
+}
+.about img{
+  width: 98vw;
+}
+@media (max-width:1000px){
+  .psize{
+    font-size: 0.9rem;
+  }
+  
+}
+@media (max-width:770px){
+  .sizes1{
+    font-size: 2rem;
+  }
+}
