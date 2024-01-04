@@ -1,5 +1,4 @@
-
-import ReactDOM from 'react-dom/client'
+import ReactDOM from 'react-dom/client' //let you render React components on the client (in the browser)
 import App from './App.jsx'
 import './index.css'
 import { BrowserRouter } from 'react-router-dom'
